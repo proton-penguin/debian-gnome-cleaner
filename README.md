@@ -10,7 +10,7 @@ This script will remove most of the gnome bloats preinstalled on debian (based) 
 - Firefox-ESR
 - and some more
 
-you can add/remove programes by editing the second line of run.sh
+you can view/add/remove programes by editing the second line of run.sh
 
 ## How to use
 ### Clone the repository
