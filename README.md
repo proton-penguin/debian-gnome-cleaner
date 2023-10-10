@@ -6,7 +6,7 @@ This script will remove most of the gnome bloats installed on debian (based) ope
 - GNOME Tweaks
 - GNOME Terminal
 - GNOME System-Monitor
-- Gnome Disks
+- GNOME Disks
 - Firefox-ESR
 - and some more
 
