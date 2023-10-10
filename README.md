@@ -2,7 +2,7 @@
 This script will remove most of the gnome bloats installed on debian (based) operating system.
 
 ## Programs that won't be removed automatically
-- nautilus (file explorer)
+- Nautilus (file explorer)
 - GNOME Tweaks
 - GNOME Terminal
 - GNOME System-Monitor
