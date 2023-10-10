@@ -2,13 +2,13 @@
 This script will remove most of the gnome bloats installed on debian (based) operating system.
 
 ## Programs that won't be removed automatically
-nautilus (file explorer)
-GNOME Tweaks
-GNOME Terminal
-GNOME System-Monitor
-Gnome Disks
-Firefox-ESR
-and some more
+- nautilus (file explorer)
+- GNOME Tweaks
+- GNOME Terminal
+- GNOME System-Monitor
+- Gnome Disks
+- Firefox-ESR
+- and some more
 
 you can add/remove programes by simply editing the second line of run.sh
 
